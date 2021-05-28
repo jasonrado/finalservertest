@@ -18,5 +18,8 @@
     "jsonwebtoken": "^8.5.1",
     "nodemon": "^2.0.7",
     "pg": "^8.6.0"
-  }
+  },
+   "engines": {
+    "node": "15.x",
+    "npm": "7.x"
 }
